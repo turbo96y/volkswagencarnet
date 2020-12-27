@@ -41,7 +41,7 @@ HEADERS_AUTH = {
         AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/63.0.3239.111 Mobile Safari/537.36'
 }
 
-BASE_SESSION = 'https://www.portal.volkswagen-we.com/'
+BASE_SESSION = 'https://my.seat/portal/'
 BASE_AUTH = 'https://identity.vwgroup.io'
 
 
